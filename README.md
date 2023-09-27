@@ -1,8 +1,8 @@
-#pasta carbonara
+# pasta carbonara
 
 ![pasta carbonara](https://www.leukerecepten.nl/wp-content/uploads/2022/07/pasta-carbonara_recept.jpg)
 
-##benodigdheden
+## benodigdheden
 * 400 gr spaghetti
 * 200 gr gerookte spekblokjes of reepjes
 * verse peterselie
@@ -10,7 +10,7 @@
 * 3 eieren
 * snuf peper en zout
 
-###bereiding
+### bereiding
 1. Doe de spekblokjes in een pan en bak ze mooi krokant. Ze hoeven niet helemaal uitgebakken te worden.
 2. Zet ondertussen een grote pan water met een snufje zout op het vuur en als het water kookt voeg je de spaghetti toe. Kook de spaghetti in ongeveer 10 min al dente (of check de verpakking voor de bereidingswijze).
 3. Voeg de pasta direct uit de pan waarin je het hebt gekookt toe aan de pan met spekjes toe en schep er doorheen. Zet het vuur uit van de pan met spekjes en spaghetti.
