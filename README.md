@@ -19,3 +19,6 @@
 6. Garneer de pasta carbonara eventueel met een beetje kaas en peterselie. Pasta carbonara is lekker met een frisse salade.
 7. Let op: Als de spaghetti te veel is afgekoeld, bindt de saus niet, maar als de spaghetti te heet is gaan de eieren stollen. Zet de pan daarom niet meer terug op het vuur.
 8. Tip: voor een vegetarische variant kun je vegetarische spekjes gebruiken of ze vervangen door champignons of gezouten cashewnoten.
+
+Dit is de link van de originele website [link1].
+[link1]: https://www.leukerecepten.nl/recepten/pasta-carbonara-recept/
